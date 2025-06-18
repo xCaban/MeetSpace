@@ -1,0 +1,13 @@
+config/database.php
+.idea/
+.vscode/
+.env
+*.log
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.xcf
