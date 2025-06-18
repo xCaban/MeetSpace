@@ -11,3 +11,4 @@ config/database.php
 ehthumbs.db
 Thumbs.db
 *.xcf
+pgadmin-data/
