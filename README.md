@@ -106,8 +106,8 @@ erDiagram
         timestamp created_at "DEFAULT CURRENT_TIMESTAMP"
     }
 
-    users ||--o{ reservations : "tworzy"
-    rooms ||--o{ reservations : "posiada"
+    users ||--o{ reservations : "tworzy"}
+    rooms ||--o{ reservations : "posiada"}
 }
 ```
 ## Opis relacji
