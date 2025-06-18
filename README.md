@@ -61,7 +61,11 @@ MeetSpace/
 │   ├── views/          # Widoki
 │   │   ├── admin/      # Panel administracyjny
 │   │   ├── rooms/      # Widoki sal
-│   │   ├── default/    # Strona główna
+│   │   ├── default/    # Strona główna![rooms](https://github.com/user-attachments/assets/53b50568-e9e1-4298-9299-ede9a8ce7eff)
+![main](https://github.com/user-attachments/assets/c34dbe09-9713-4923-9dce-999640b0fd84)
+![login](https://github.com/user-attachments/assets/228dff64-b221-4423-ba62-bdd8f74d6a2b)
+![admin-rooms](https://github.com/user-attachments/assets/935586e9-ced7-4b73-bc77-d47bedc304e0)
+
 │   │   ├── reservations/ # Widoki rezerwacji
 │   │   ├── security/   # Logowanie i rejestracja
 │   │   └── layout.php/ # Szablon layoutu
@@ -155,5 +159,8 @@ erDiagram
 - Kontrola dostępu do funkcji administracyjnych
 
 # Screeny z aplikacji
-
+![admin-rooms](https://github.com/user-attachments/assets/1bafb1d7-f2c4-45b6-9a47-efafa3bb0f19)
+![rooms](https://github.com/user-attachments/assets/601519cc-d228-44df-8924-735dc3769d41)
+![main](https://github.com/user-attachments/assets/60b4497c-5a51-421b-8d3e-e483af04c9b0)
+![login](https://github.com/user-attachments/assets/b24a8ed2-f405-496c-bc47-668a6cce12e0)
 
