@@ -61,11 +61,7 @@ MeetSpace/
 │   ├── views/          # Widoki
 │   │   ├── admin/      # Panel administracyjny
 │   │   ├── rooms/      # Widoki sal
-│   │   ├── default/    # Strona główna![rooms](https://github.com/user-attachments/assets/53b50568-e9e1-4298-9299-ede9a8ce7eff)
-![main](https://github.com/user-attachments/assets/c34dbe09-9713-4923-9dce-999640b0fd84)
-![login](https://github.com/user-attachments/assets/228dff64-b221-4423-ba62-bdd8f74d6a2b)
-![admin-rooms](https://github.com/user-attachments/assets/935586e9-ced7-4b73-bc77-d47bedc304e0)
-
+│   │   ├── default/    # Strona główna
 │   │   ├── reservations/ # Widoki rezerwacji
 │   │   ├── security/   # Logowanie i rejestracja
 │   │   └── layout.php/ # Szablon layoutu
